@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-07-23T19:36:10.771208+09:00",
+  "totals": {
+    "total_commands": 6618,
+    "total_saved": 89659059,
+    "avg_savings_pct": 98.0,
+    "total_time_ms": 11048685
+  },
+  "token_timeline": [
+    {
+      "date": "2026-06-25",
+      "commands": 166,
+      "input_tokens": 399224,
+      "saved_tokens": 286683,
+      "savings_pct": 71.8,
+      "total_time_ms": 14447
+    },
+    {
+      "date": "2026-06-26",
+      "commands": 25,
+      "input_tokens": 8888,
+      "saved_tokens": 6668,
+      "savings_pct": 75.0,
+      "total_time_ms": 460
+    },
+    {
+      "date": "2026-06-27",
+      "commands": 21,
+      "input_tokens": 11309,
+      "saved_tokens": 9261,
+      "savings_pct": 81.9,
+      "total_time_ms": 216
+    },
+    {
+      "date": "2026-06-28",
+      "commands": 137,
+      "input_tokens": 1036493,
+      "saved_tokens": 1011083,
+      "savings_pct": 97.5,
+      "total_time_ms": 3078
+    },
+    {
+      "date": "2026-06-29",
+      "commands": 231,
+      "input_tokens": 523195,
+      "saved_tokens": 470762,
+      "savings_pct": 90.0,
+      "total_time_ms": 214101
+    },
+    {
+      "date": "2026-06-30",
+      "commands": 88,
+      "input_tokens": 134995,
+      "saved_tokens": 106690,
+      "savings_pct": 79.0,
+      "total_time_ms": 275312
+    },
+    {
+      "date": "2026-07-01",
+      "commands": 56,
+      "input_tokens": 4139347,
+      "saved_tokens": 4131777,
+      "savings_pct": 99.8,
+      "total_time_ms": 905992
+    },
+    {
+      "date": "2026-07-02",
+      "commands": 89,
+      "input_tokens": 27384,
+      "saved_tokens": 7765,
+      "savings_pct": 28.4,
+      "total_time_ms": 23949
+    },
+    {
+      "date": "2026-07-03",
+      "commands": 263,
+      "input_tokens": 294781,
+      "saved_tokens": 171601,
+      "savings_pct": 58.2,
+      "total_time_ms": 401428
+    },
+    {
+      "date": "2026-07-04",
+      "commands": 651,
+      "input_tokens": 210871,
+      "saved_tokens": 108316,
+      "savings_pct": 51.4,
+      "total_time_ms": 456529
+    },
+    {
+      "date": "2026-07-05",
+      "commands": 21,
+      "input_tokens": 1164178,
+      "saved_tokens": 1157219,
+      "savings_pct": 99.4,
+      "total_time_ms": 3004
+    },
+    {
+      "date": "2026-07-06",
+      "commands": 361,
+      "input_tokens": 100848,
+      "saved_tokens": 30895,
+      "savings_pct": 30.6,
+      "total_time_ms": 917279
+    },
+    {
+      "date": "2026-07-07",
+      "commands": 129,
+      "input_tokens": 229575,
+      "saved_tokens": 188258,
+      "savings_pct": 82.0,
+      "total_time_ms": 23416
+    },
+    {
+      "date": "2026-07-08",
+      "commands": 197,
+      "input_tokens": 94075,
+      "saved_tokens": 41814,
+      "savings_pct": 44.4,
+      "total_time_ms": 1928519
+    },
+    {
+      "date": "2026-07-09",
+      "commands": 835,
+      "input_tokens": 216295,
+      "saved_tokens": 124859,
+      "savings_pct": 57.7,
+      "total_time_ms": 170771
+    },
+    {
+      "date": "2026-07-10",
+      "commands": 124,
+      "input_tokens": 22636,
+      "saved_tokens": 9652,
+      "savings_pct": 42.6,
+      "total_time_ms": 45746
+    },
+    {
+      "date": "2026-07-11",
+      "commands": 301,
+      "input_tokens": 78508303,
+      "saved_tokens": 78430720,
+      "savings_pct": 99.9,
+      "total_time_ms": 1198099
+    },
+    {
+      "date": "2026-07-12",
+      "commands": 292,
+      "input_tokens": 160657,
+      "saved_tokens": 85319,
+      "savings_pct": 53.1,
+      "total_time_ms": 388371
+    },
+    {
+      "date": "2026-07-13",
+      "commands": 173,
+      "input_tokens": 91143,
+      "saved_tokens": 53254,
+      "savings_pct": 58.4,
+      "total_time_ms": 316095
+    },
+    {
+      "date": "2026-07-14",
+      "commands": 52,
+      "input_tokens": 21207,
+      "saved_tokens": 5058,
+      "savings_pct": 23.9,
+      "total_time_ms": 130670
+    },
+    {
+      "date": "2026-07-15",
+      "commands": 189,
+      "input_tokens": 112889,
+      "saved_tokens": 49255,
+      "savings_pct": 43.6,
+      "total_time_ms": 543697
+    },
+    {
+      "date": "2026-07-16",
+      "commands": 833,
+      "input_tokens": 1531712,
+      "saved_tokens": 1205919,
+      "savings_pct": 78.7,
+      "total_time_ms": 1546079
+    },
+    {
+      "date": "2026-07-17",
+      "commands": 542,
+      "input_tokens": 440622,
+      "saved_tokens": 128293,
+      "savings_pct": 29.1,
+      "total_time_ms": 927435
+    },
+    {
+      "date": "2026-07-18",
+      "commands": 254,
+      "input_tokens": 1419958,
+      "saved_tokens": 1368009,
+      "savings_pct": 96.3,
+      "total_time_ms": 46469
+    },
+    {
+      "date": "2026-07-19",
+      "commands": 360,
+      "input_tokens": 180058,
+      "saved_tokens": 95873,
+      "savings_pct": 53.2,
+      "total_time_ms": 341193
+    },
+    {
+      "date": "2026-07-21",
+      "commands": 182,
+      "input_tokens": 399293,
+      "saved_tokens": 356015,
+      "savings_pct": 89.2,
+      "total_time_ms": 224912
+    },
+    {
+      "date": "2026-07-22",
+      "commands": 46,
+      "input_tokens": 24084,
+      "saved_tokens": 18041,
+      "savings_pct": 74.9,
+      "total_time_ms": 1418
+    }
+  ],
+  "projects": [
+    {
+      "name": "3Dviewer",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-24",
+      "description": ""
+    },
+    {
+      "name": "cortana-intro",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-21",
+      "description": ""
+    },
+    {
+      "name": "iptv-library",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-26",
+      "description": ""
+    },
+    {
+      "name": "voice-studio",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-21",
+      "description": ""
+    },
+    {
+      "name": "ai-explorer",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-21",
+      "description": ""
+    },
+    {
+      "name": "music-assistant",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-24",
+      "description": ""
+    },
+    {
+      "name": "design-md-spec",
+      "stage": "✅ 完了",
+      "last_active": "2026-07-09",
+      "description": ""
+    },
+    {
+      "name": "cortana-design-system (CDS)",
+      "stage": "🔨 作成中",
+      "last_active": "2026-07-09",
+      "description": ""
+    },
+    {
+      "name": "mjml-studio",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-29",
+      "description": ""
+    },
+    {
+      "name": "mjml-studio-v2",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-29",
+      "description": ""
+    },
+    {
+      "name": "last30days-studio",
+      "stage": "🔨 作成中",
+      "last_active": "2026-07-17",
+      "description": ""
+    },
+    {
+      "name": "voice-deck",
+      "stage": "🔨 作成中",
+      "last_active": "2026-07-21",
+      "description": ""
+    },
+    {
+      "name": "agent-lens (AX Inspector)",
+      "stage": "💡 アイデア",
+      "last_active": "2026-07-20",
+      "description": ""
+    },
+    {
+      "name": "html-video-studio",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-30",
+      "description": ""
+    },
+    {
+      "name": "memory-canvas",
+      "stage": "✅ 完了",
+      "last_active": "2026-07-08",
+      "description": ""
+    },
+    {
+      "name": "atali_data",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-17",
+      "description": ""
+    },
+    {
+      "name": "Cortana 組織設計",
+      "stage": "✅ 完了",
+      "last_active": "2026-06-17",
+      "description": ""
+    },
+    {
+      "name": "cortana-scope",
+      "stage": "💡 アイデア",
+      "last_active": "2026-07-23",
+      "description": "Cortana組織の活動データ可視化ダッシュボード。トークン推移・プロジェクトガント・意思決定速度・Slackヒートマップ。"
+    }
+  ],
+  "commit_activity": [
+    {
+      "project": "3Dviewer",
+      "commits_by_date": {
+        "2026-06-17": 1,
+        "2026-06-16": 1
+      },
+      "total": 2
+    },
+    {
+      "project": "music-assistant",
+      "commits_by_date": {
+        "2026-06-22": 1
+      },
+      "total": 1
+    },
+    {
+      "project": "cortana-design-system",
+      "commits_by_date": {
+        "2026-07-09": 42
+      },
+      "total": 42
+    },
+    {
+      "project": "mjml-studio-v2",
+      "commits_by_date": {
+        "2026-06-29": 12
+      },
+      "total": 12
+    },
+    {
+      "project": "voice-deck",
+      "commits_by_date": {
+        "2026-07-23": 3,
+        "2026-07-21": 2
+      },
+      "total": 5
+    },
+    {
+      "project": "agent-lens",
+      "commits_by_date": {
+        "2026-07-20": 1
+      },
+      "total": 1
+    },
+    {
+      "project": "html-video-studio",
+      "commits_by_date": {
+        "2026-06-30": 3
+      },
+      "total": 3
+    },
+    {
+      "project": "memory-canvas",
+      "commits_by_date": {
+        "2026-06-30": 6
+      },
+      "total": 6
+    },
+    {
+      "project": "cortana-scope",
+      "commits_by_date": {
+        "2026-07-23": 1
+      },
+      "total": 1
+    }
+  ]
+}

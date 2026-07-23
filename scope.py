@@ -1,10 +1,12 @@
-"""cortana-scope — データ収集・HTML生成エントリーポイント (V0 スタブ)"""
+"""cortana-scope — データ収集・HTML生成エントリーポイント"""
 import sys
 
 
 def build():
-    print("📊 cortana-scope build — V1実装待ち")
-    print("  予定: cortana_state.json + Slack API → data/snapshot.json → docs/index.html")
+    from src.collect import main as collect
+    from src.build import build as build_html
+    collect()
+    build_html()
 
 
 def preview():
