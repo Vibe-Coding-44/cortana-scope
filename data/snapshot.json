@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T19:36:10.771208+09:00",
+  "generated_at": "2026-07-30T09:11:02.719199+09:00",
   "totals": {
-    "total_commands": 6618,
-    "total_saved": 89659059,
-    "avg_savings_pct": 98.0,
-    "total_time_ms": 11048685
+    "total_commands": 6838,
+    "total_saved": 89689893,
+    "avg_savings_pct": 97.9,
+    "total_time_ms": 11155705
   },
   "token_timeline": [
     {
@@ -217,11 +217,27 @@
     },
     {
       "date": "2026-07-22",
-      "commands": 46,
-      "input_tokens": 24084,
-      "saved_tokens": 18041,
-      "savings_pct": 74.9,
-      "total_time_ms": 1418
+      "commands": 118,
+      "input_tokens": 54281,
+      "saved_tokens": 28574,
+      "savings_pct": 52.6,
+      "total_time_ms": 4148
+    },
+    {
+      "date": "2026-07-23",
+      "commands": 147,
+      "input_tokens": 36895,
+      "saved_tokens": 20218,
+      "savings_pct": 54.8,
+      "total_time_ms": 6057
+    },
+    {
+      "date": "2026-07-27",
+      "commands": 1,
+      "input_tokens": 91,
+      "saved_tokens": 83,
+      "savings_pct": 91.2,
+      "total_time_ms": 98233
     }
   ],
   "projects": [
@@ -326,12 +342,6 @@
       "stage": "✅ 完了",
       "last_active": "2026-06-17",
       "description": ""
-    },
-    {
-      "name": "cortana-scope",
-      "stage": "💡 アイデア",
-      "last_active": "2026-07-23",
-      "description": "Cortana組織の活動データ可視化ダッシュボード。トークン推移・プロジェクトガント・意思決定速度・Slackヒートマップ。"
     }
   ],
   "commit_activity": [
@@ -396,9 +406,9 @@
     {
       "project": "cortana-scope",
       "commits_by_date": {
-        "2026-07-23": 1
+        "2026-07-23": 2
       },
-      "total": 1
+      "total": 2
     }
   ]
 }
