@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T01:06:34.529548+09:00",
+  "generated_at": "2026-08-22T00:29:44.928302+09:00",
   "totals": {
-    "total_commands": 7340,
-    "total_saved": 94863891,
+    "total_commands": 7451,
+    "total_saved": 94867311,
     "avg_savings_pct": 87.7,
-    "total_time_ms": 11603168
+    "total_time_ms": 11611140
   },
   "token_timeline": [
     {
@@ -310,6 +310,14 @@
       "saved_tokens": 23836,
       "savings_pct": 87.0,
       "total_time_ms": 4216
+    },
+    {
+      "date": "2026-08-21",
+      "commands": 111,
+      "input_tokens": 7331,
+      "saved_tokens": 3420,
+      "savings_pct": 46.7,
+      "total_time_ms": 7972
     }
   ],
   "projects": [
@@ -490,11 +498,12 @@
     {
       "project": "cortana-scope",
       "commits_by_date": {
+        "2026-08-21": 1,
         "2026-08-19": 1,
         "2026-07-30": 1,
         "2026-07-23": 2
       },
-      "total": 4
+      "total": 5
     }
   ]
 }
